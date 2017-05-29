@@ -11,6 +11,8 @@
 
 #### 4.[高级多层感知器-手写识别](notes/04_modern_net.ipynb)
 
+#### 5.[卷积神经网络-手写识别](05_convolutional_net.ipynb)
+
 本学习库代码与资料参考多修改自网上，感谢他们的分享：
 
 - https://github.com/leriomaggio/deep-learning-keras-tensorflow
