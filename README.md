@@ -3,11 +3,11 @@
 
 ## - Keras
 
-#### 1.[Keras初体会](./notes/k1.md)
+#### 0.[线性回归]()
 
-#### 2.[中文分词]()
-
-相关代码与资料引用：
+本学习库代码与资料参考多修改自网上，感谢他们的分享：
 
 - https://github.com/leriomaggio/deep-learning-keras-tensorflow
+- https://github.com/tgjeon/Keras-Tutorials
+- http://keras-cn.readthedocs.io/en/latest/
 
