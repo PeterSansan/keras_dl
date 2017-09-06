@@ -5,15 +5,23 @@
 
 -  1.[线性回归](./notes/01_linear_regression.ipynb)
 
--  2.[逻辑回归-手写识别](./notes/02_logistic_regression.ipynb)
+-  2.[逻辑回归-MNIST](./notes/02_logistic_regression.ipynb)
 
--  3.[简单多层感知器-手写识别](./notes/03_net.ipynb)
+-  3.[简单多层感知器-MNIST](./notes/03_net.ipynb)
 
--  4.[高级多层感知器-手写识别](notes/04_modern_net.ipynb)：加入了dropout层
+-  4.[高级多层感知器-MNIST](./notes/04_modern_net.ipynb)：加入了dropout层
 
--  5.[卷积神经网络-手写识别](05_convolutional_net.ipynb)
+-  5.[卷积神经网络-MNIST](./notes/05_convolutional_net.ipynb)
 
-本学习库代码与资料参考多修改自网上，感谢他们的分享：
+-  6.[自编码器-MNIST重构](./notes/06_autoencoder.ipynb)
+
+-  7.[lstm-imbd情感分类](./notes/07_lstm.ipynb)
+
+-  8.[Bi-lstm-imbd情感分类](./notes/08_bilstm.ipynb)
+
+-  9.[Tensorboard使用](./notes/09_tensorboard.ipynb)
+
+本学习库代码与资料参考多修改自官网例子和网上资料，感谢他们的分享：
 
 - https://github.com/leriomaggio/deep-learning-keras-tensorflow
 - https://github.com/tgjeon/Keras-Tutorials
