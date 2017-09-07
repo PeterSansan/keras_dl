@@ -21,10 +21,13 @@
 
 -  9.[Tensorboard使用](./notes/09_tensorboard.ipynb)
 
+-  10.[模型的保存与加载](./notes/10_save_restore_net.ipynb)
+
 本学习库代码与资料参考多修改自官网例子和网上资料，感谢他们的分享：
 
 - https://github.com/leriomaggio/deep-learning-keras-tensorflow
 - https://github.com/tgjeon/Keras-Tutorials
 - http://keras-cn.readthedocs.io/en/latest/
 
-感想：单单从常见例子来看，相比`TensorFlow`，`Keras`的代码的确简单了许多，函数也不会太复杂，但是用久了，确定会不清楚里面的实现细节，所以能有时间与精力写好`TF`，尽量用`TF`好一点。
+附加：1、单单从常见例子来看，相比`TensorFlow`，`Keras`的代码的确简单了许多，函数也不会太复杂，但是用久了，确定会不清楚里面的实现细节，所以能有时间与精力写好`TF`，尽量用`TF`好一点
+2、里面使用的数据没有的话会自动下载，无法下载请各自下载数据。
