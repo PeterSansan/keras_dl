@@ -23,6 +23,16 @@
 
 -  10.[模型的保存与加载](./notes/10_save_restore_net.ipynb)
 
+-  11.[CNN-imdb情感二分类](./notes/11_cnn_imdb.ipynb)
+
+-  12.[CNN-lstm-imdb情感二分类](./notes/12_cnn_bilstm.ipynb)
+
+-  13.[lstm不同计算模型比较](./notes/13_batch_batchmark.ipynb)
+
+-  14.[lstm文本生成(字母级)](./notes/14_lstm_generation.ipynb)、
+
+ - 15.[使用预训练词向量-CNN文本分类](./notets/15_pretrained_word_embeddings.ipynb)
+
 本学习库代码与资料参考多修改自官网例子和网上资料，感谢他们的分享：
 
 - https://github.com/leriomaggio/deep-learning-keras-tensorflow
