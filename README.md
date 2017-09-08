@@ -1,8 +1,6 @@
 # Keras 编程实践
 ---
 
-## - Keras
-
 -  1.[线性回归](./notes/01_linear_regression.ipynb)
 
 -  2.[逻辑回归-MNIST](./notes/02_logistic_regression.ipynb)
