@@ -27,12 +27,15 @@
 
 -  13.[lstm不同计算模型比较](./notes/13_batch_batchmark.ipynb)
 
--  14.[lstm文本生成(字母级)](./notes/14_lstm_generation.ipynb)、
+-  14.[lstm文本生成(字母级)](./notes/14_lstm_generation.ipynb)
 
- - 15.[使用预训练词向量-CNN文本分类](./notets/15_pretrained_word_embeddings.ipynb)
+ - 15.[使用预训练词向量-CNN文本分类](./notes/15_pretrained_word_embeddings.ipynb)
  
  - 16.[stateful-lstm信号预测](./notes/16_stateful_lstm.ipynb)
-
+ 
+ - 17.[K折交叉验证](./notes/17_tkfcv.ipynb)
+ 
+ - 18.[实用函数](./notes/util_function.ipynb)
 本学习库代码与资料参考多修改自官网例子和网上资料，感谢他们的分享：
 
 - https://github.com/leriomaggio/deep-learning-keras-tensorflow
